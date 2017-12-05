@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trabalho_4</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btnTakePicture">Tirar Foto</string>
+    <string name="btnFinish">Finalizar</string>
+    <string name="btnExcluir">Remover</string>
+    <string name="btnAlterar">Alterar</string>
+    <string name="btnCancel">Cancelar</string>
+</resources>
